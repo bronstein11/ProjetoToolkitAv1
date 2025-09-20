@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Macro Home Office\\Desktop\\ProjetoToolkit\\ProjetoToolkit\\ProjetoToolkit.csproj": {}
+    "C:\\Users\\Macro Home Office\\Documents\\GitHub\\ProjetoToolkitAv1\\ProjetoToolkit.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Macro Home Office\\Desktop\\ProjetoToolkit\\ProjetoToolkit\\ProjetoToolkit.csproj": {
+    "C:\\Users\\Macro Home Office\\Documents\\GitHub\\ProjetoToolkitAv1\\ProjetoToolkit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Macro Home Office\\Desktop\\ProjetoToolkit\\ProjetoToolkit\\ProjetoToolkit.csproj",
+        "projectUniqueName": "C:\\Users\\Macro Home Office\\Documents\\GitHub\\ProjetoToolkitAv1\\ProjetoToolkit.csproj",
         "projectName": "ProjetoToolkit",
-        "projectPath": "C:\\Users\\Macro Home Office\\Desktop\\ProjetoToolkit\\ProjetoToolkit\\ProjetoToolkit.csproj",
+        "projectPath": "C:\\Users\\Macro Home Office\\Documents\\GitHub\\ProjetoToolkitAv1\\ProjetoToolkit.csproj",
         "packagesPath": "C:\\Users\\Macro Home Office\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Macro Home Office\\Desktop\\ProjetoToolkit\\ProjetoToolkit\\obj\\",
+        "outputPath": "C:\\Users\\Macro Home Office\\Documents\\GitHub\\ProjetoToolkitAv1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Macro Home Office\\AppData\\Roaming\\NuGet\\NuGet.Config"
